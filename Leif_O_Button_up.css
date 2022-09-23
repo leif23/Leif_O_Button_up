@@ -1,0 +1,22 @@
+.se{
+    background-color: rgb(247, 246, 244);
+    color: rgb(14, 7, 7);
+    font-weight: 900;
+    box-shadow: 60px -16px teal;;
+    border-radius: 20px;
+    text-align: center;
+    height: 90;
+    width: 50%;
+}.pl{
+    border-radius: 50%;
+    background-color: rgb(39, 108, 75);
+    font-size: 20px;
+    color: whitesmoke;
+}.ca{
+    border-color: rgb(205, 62, 62);
+    background-color: rgb(143, 100, 46);
+    font-size: 34px;
+    color: whitesmoke;
+    box-shadow: 60px -16px rgb(44, 73, 73);
+    border-radius: 20%;
+}
